@@ -1,0 +1,14 @@
+{
+  "name": "client2",
+  "version": "1.0.0",
+  "description": "First Client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Safiul Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^2.2.0"
+  }
+}

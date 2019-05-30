@@ -1,0 +1,19 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "My own PubSub Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "PubSub"
+  ],
+  "author": "Safiul Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^2.8.0",
+    "socket.io": "^2.2.0"
+  }
+}
